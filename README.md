@@ -73,7 +73,7 @@
                             DB_CONNECTION=mysql <br>
                             DB_HOST=mysql <br>
                             DB_PORT=3306 <br>
-                            DB_DATABASE=doctorsapi <br>
+                            DB_DATABASE=doctorsapiv1 <br>
                             DB_USERNAME=sail <br>
                             DB_PASSWORD=password
                          </h6>
