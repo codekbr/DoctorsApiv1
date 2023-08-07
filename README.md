@@ -60,7 +60,7 @@
                 <div class="ui segment">
                     <h1>Instalaçao</h1>
                      <strong> Download do projeto:</strong> <br>
-                     no terminal execute o seguinte comando: <strong>git clone https://github.com/codekbr/doctorsapi.git</strong>
+                     no terminal execute o seguinte comando: <strong>git clone https://github.com/codekbr/DoctorsApiv1.git</strong>
                 </div>
                 <br>
                 <div class="ui segment">
