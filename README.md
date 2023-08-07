@@ -68,7 +68,7 @@
                        <strong> - Copiar o .env.example da raiz do projeto laravel e renomea-lo para .env <br></strong> <br>
                      2º Configurar a conexão com MySQL do projeto no arquivo .env <br>
                      <p>
-                          <strong>- Abra o .env e adicone a seguintes linhas. <br></strong>
+                          <strong>- Abra o .env e adicione a seguintes linhas. <br></strong>
                          <h6>
                             DB_CONNECTION=mysql <br>
                             DB_HOST=mysql <br>
